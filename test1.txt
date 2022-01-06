@@ -1,7 +1,9 @@
-Hello I am test 2 file...
+new Hello I am test 2 file...
 
 commited on github
 
 add new line...
 
 reset commit
+
+new commit from github.. need to pull changes in local repo
